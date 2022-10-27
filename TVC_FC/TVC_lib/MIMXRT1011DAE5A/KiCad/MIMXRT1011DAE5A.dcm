@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIMXRT1011DAE5A
+D ARM Microcontrollers - MCU i.MX RT1010 Crossover MCU with Arm<sup> </sup> Cortex<sup> </sup>-M7 core
+K
+F http://www.nxp.com/docs/en/data-sheet/IMXRT1010CEC.pdf
+$ENDCMP
+#
+#End Doc Library

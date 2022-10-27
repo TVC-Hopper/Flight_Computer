@@ -1,0 +1,9 @@
+Manufacturer=NXP
+PartNumber=MIMXRT1011DAE5A
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=80
+Version=3.1
+Released=2020-05-04 04:03:35
+Downloaded=2022-10-22 22:14:41
+3D=Y

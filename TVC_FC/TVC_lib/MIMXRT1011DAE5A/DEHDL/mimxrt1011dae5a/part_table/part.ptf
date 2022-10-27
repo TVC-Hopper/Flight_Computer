@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MIMXRT1011DAE5A'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "NXP", "MIMXRT1011DAE5A" (!) = "", "QFP50P1400X1400X160-80N", "Quad Flat Packages", "771-MIMXRT1011DAE5A", "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/MIMXRT1011DAE5A?qs=P1JMDcb91o5GoeF%252BJrcvqQ%3D%3D", "MIMXRT1011DAE5A", "https://www.arrow.com/en/products/mimxrt1011dae5a/nxp-semiconductors", "", "", "ARM Microcontrollers - MCU i.MX RT1010 Crossover MCU with Arm<sup> </sup> Cortex<sup> </sup>-M7 core", "http://www.nxp.com/docs/en/data-sheet/IMXRT1010CEC.pdf", "1.6 mm"
+END_PART
+
+END.
