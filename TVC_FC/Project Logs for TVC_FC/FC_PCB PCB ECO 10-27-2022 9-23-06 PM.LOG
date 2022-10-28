@@ -1,0 +1,18 @@
+Added Component: Designator=IC?(QFP50P1400X1400X160-80N)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "MIMXRT1011DAE5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/mimxrt1011dae5a/nxp-semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MIMXRT1011DAE5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "MIMXRT1011DAE5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MIMXRT1011DAE5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "771-MIMXRT1011DAE5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/MIMXRT1011DAE5A?qs=P1JMDcb91o5GoeF%252BJrcvqQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Testing_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Testing_Price-Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFP50P1400X1400X160-80N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MIMXRT1011DAE5A"; VariantName = "[No Variations]"
+Added Class: Name=MCU
+Added Room: Name=MCU
