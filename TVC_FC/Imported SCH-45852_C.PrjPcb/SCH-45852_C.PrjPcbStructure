@@ -1,0 +1,13 @@
+Record=TopLevelDocument|FileName=01 COVER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 COVER.SchDoc|FileName=02 BLOCK DIAGRAM.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 COVER.SchDoc|FileName=03 MAIN POWER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 COVER.SchDoc|FileName=04 MIMXRT1010 PART1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 COVER.SchDoc|FileName=05 MIMXRT1010 PART2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 COVER.SchDoc|FileName=06 USB.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 COVER.SchDoc|FileName=07 SAI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 COVER.SchDoc|FileName=08 SPDIF.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 COVER.SchDoc|FileName=09 FLEXSPI FLASH.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 COVER.SchDoc|FileName=10 ARDUINO_JTAG.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 COVER.SchDoc|FileName=11 FREELINK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 COVER.SchDoc|FileName=12 BOOT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 COVER.SchDoc|FileName=13 MISC.SchDoc|SheetNumber= 
