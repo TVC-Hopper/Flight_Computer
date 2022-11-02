@@ -1,0 +1,98 @@
+# Created by Ultra Librarian Gold 8.3.307 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "CON_1053131102")
+Pad (Name "1") (Location 0, 0) (HoleSize 47.2440910339355) (Surface False) (Rotation 0) (ExpandMask 3)
+PadShape (Size 66.92913055, 66.92913055) (Shape Rectangular) (Layer Top)
+PadShape (Size 66.92913055, 66.92913055) (Shape Rectangular) (Layer Bottom)
+PadShape (Size 66.92913055, 66.92913055) (Shape Rectangular) (Layer MidLayer)
+EndPad
+Pad (Name "2") (Location -98.4252, 0) (HoleSize 47.2440910339355) (Surface False) (Rotation 0) (ExpandMask 3)
+PadShape (Size 66.92913055, 66.92913055) (Shape Rounded) (Layer Top)
+PadShape (Size 66.92913055, 66.92913055) (Shape Rounded) (Layer Bottom)
+PadShape (Size 66.92913055, 66.92913055) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "3") (Location 0, -282.67718506) (HoleSize 62.992130279541) (Plated 0) (Surface False) (Rotation 0) (ExpandMask 3)
+PadShape (Size 62.99213028, 62.99213028) (Shape Rounded) (Layer Top)
+PadShape (Size 62.99213028, 62.99213028) (Shape Rounded) (Layer Bottom)
+PadShape (Size 62.99213028, 62.99213028) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "4") (Location -98.42500305, -282.67718506) (HoleSize 62.992130279541) (Plated 0) (Surface False) (Rotation 0) (ExpandMask 3)
+PadShape (Size 62.99213028, 62.99213028) (Shape Rounded) (Layer Top)
+PadShape (Size 62.99213028, 62.99213028) (Shape Rounded) (Layer Bottom)
+PadShape (Size 62.99213028, 62.99213028) (Shape Rounded) (Layer MidLayer)
+EndPad
+Line (Width 5) (Start -216.14149475, 62.59840012) (End -216.14149475, -516.14172363) (Layer Mechanical15) 
+Line (Width 5) (Start -216.14149475, -516.14172363) (End 117.71630859, -516.14172363) (Layer Mechanical15) 
+Line (Width 5) (Start 117.71630859, -516.14172363) (End 117.71630859, 62.59840012) (Layer Mechanical15) 
+Line (Width 5) (Start 117.71630859, 62.59840012) (End -216.14149475, 62.59840012) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-216.14149475, 62.59840012)
+Point (-216.14149475, -516.14172363)
+Point (117.71630859, -516.14172363)
+Point (117.71630859, 62.59840012)
+EndPolygon
+Line (Width 5) (Start 77.71630859, 0) (End 137.71630859, 25) (Layer TopOverlay) 
+Line (Width 5) (Start 137.71630859, 25) (End 137.71630859, -25) (Layer TopOverlay) 
+Line (Width 5) (Start 137.71630859, -25) (End 77.71630859, 0) (Layer TopOverlay) 
+Line (Width 5) (Start -142.84354639, 12.20470047) (End -166.14149475, 12.20470047) (Layer TopOverlay) 
+Line (Width 5) (Start -166.14149475, 12.20470047) (End -166.14149475, -408.66140747) (Layer TopOverlay) 
+Line (Width 5) (Start -166.14149475, -408.66140747) (End 67.71630859, -408.66140747) (Layer TopOverlay) 
+Line (Width 5) (Start 67.71630859, -408.66140747) (End 67.71630859, 12.20470047) (Layer TopOverlay) 
+Line (Width 5) (Start 67.71630859, 12.20470047) (End 46.06456566, 12.20470047) (Layer TopOverlay) 
+Line (Width 5) (Start -46.06456566, 12.20470047) (End -54.00685361, 12.20470047) (Layer TopOverlay) 
+Text (Location -174.21258926, 523.22839355) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "1053131102")
+Text (Location -549.21258926, 423.22839355) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "HDR_OF_NANOFIT,_SR,_R/A,_PWR_CONN_-2_CKT")
+Text (Location -349.21258926, 323.22839355) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "TIN_PLATING_BLACK_COLOUR")
+Line (Width 5) (Start 77.71630859, 0) (End 137.71630859, 25) (Layer Mechanical13) 
+Line (Width 5) (Start 137.71630859, 25) (End 137.71630859, -25) (Layer Mechanical13) 
+Line (Width 5) (Start 137.71630859, -25) (End 77.71630859, 0) (Layer Mechanical13) 
+Line (Width 5) (Start -166.14149475, -466.14169312) (End 67.71630859, -466.14169312) (Layer Mechanical13) 
+Line (Width 5) (Start 67.71630859, -466.14169312) (End 67.71630859, 12.59840012) (Layer Mechanical13) 
+Line (Width 5) (Start 67.71630859, 12.59840012) (End -166.14149475, 12.59840012) (Layer Mechanical13) 
+Line (Width 5) (Start -166.14149475, 12.59840012) (End -166.14149475, -466.14169312) (Layer Mechanical13) 
+Text (Location -174.21258926, 523.22839355) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "1053131102")
+Text (Location -549.21258926, 423.22839355) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "HDR_OF_NANOFIT,_SR,_R/A,_PWR_CONN_-2_CKT")
+Text (Location -349.21258926, 323.22839355) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "TIN_PLATING_BLACK_COLOUR")
+Polygon (PointCount 4) (Layer Mechanical5) 
+Point (192.71629333, 137.59840393)
+Point (192.71629333, -591.14172363)
+Point (-291.14151001, -591.14172363)
+Point (-291.14151001, 137.59840393)
+EndPolygon
+Text (Location -166.14149475, -737.40161133) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical3) (Value "NOTE")
+Text (Location -166.14149475, -837.40161133) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical3) (Value "MAXIMUM_PACKAGE_HEIGHT:_6.64_MM")
+Text (Location -166.14149475, -987.40161133) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical3) (Value "RECOMMENDED_PCB_THICKNESS:")
+Text (Location -166.14149475, -1087.40161133) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical3) (Value "1.6_MM_TO_2.4_MM")
+Text (Location -166.14149475, -737.40161133) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical10) (Value "NOTE")
+Text (Location -166.14149475, -837.40161133) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical10) (Value "MAXIMUM_PACKAGE_HEIGHT:_6.64_MM")
+Text (Location -166.14149475, -987.40161133) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical10) (Value "RECOMMENDED_PCB_THICKNESS:")
+Text (Location -166.14149475, -1087.40161133) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical10) (Value "1.6_MM_TO_2.4_MM")
+Step (Name CON_1053131102.step)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "1053131102") (PartCount 1) (DesPrefix "J?")
+Pin (Location 200, 0) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "1") (Name Hidden "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 200, -100) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "2") (Name Hidden "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Line (Width 5) (Start 400, 0) (End 200, 0) (Part 1)
+Line (Width 5) (Start 400, -100) (End 200, -100) (Part 1)
+Line (Width 5) (Start 400, 0) (End 350, 33.3333) (Part 1)
+Line (Width 5) (Start 400, -100) (End 350, -66.6667) (Part 1)
+Line (Width 5) (Start 400, 0) (End 350, -33.3333) (Part 1)
+Line (Width 5) (Start 400, -100) (End 350, -133.3333) (Part 1)
+Rectangle (Width 5) (Start 200, -200) (End 500, 100) (Part 1)
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2022 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Molex Connector Corporation") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "1053131102") (Part 1)
+Parameter (Name "RefDes") (Location 350, 250) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 400, 0) (Height 82) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "1053131102") (Part 1)
+Footprint (Name "CON_1053131102")
+EndComponent
+EndComponents
